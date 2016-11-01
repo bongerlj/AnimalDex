@@ -1,0 +1,42 @@
+#LaTeX
+*.gz
+*.aux
+*.log
+*.toc
+*.lot
+*.swp
+*.out
+*.lof
+*.cb
+*.cb2
+
+*.iml
+*.class
+
+
+#Directory-based project format:
+.idea/
+.gradle/
+
+#Gradle based files that are to be ignored
+gradle/
+gradlew*
+build/
+
+#File-based project format:
+*.ipr
+*.iws
+
+#IntelliJ
+/out/
+
+#Doxygen Generated Files
+/Doxygen/Output
+
+#OS Files
+*.DS_Store
+Thumbs.db
+*.brackets.json
+
+#PDF
+*.pdf
